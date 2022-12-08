@@ -5,7 +5,7 @@ from aiogram.dispatcher.filters import Text
 
 
 msg_set = open('meow.txt', 'r', encoding='utf-8').read().splitlines()
-bot = Bot(token="5910214664:AAE4q_L6x6d_WJiWlUNAYGKoJ6a6HG4cB0Y")
+bot = Bot(token="Secret")
 dp = Dispatcher(bot)
 
 
